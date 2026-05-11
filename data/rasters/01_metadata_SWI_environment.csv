@@ -1,0 +1,14 @@
+﻿Code,Description,Units,Continous (Cont) or Categorical (Cat),Notes
+BCC,broadleaved continuous cover,% cover,Cont,TM-based classification
+CALC,bedrock strictly calcareous vs other type,1 (present) or 0 (absent),Cat,binary
+CCC,coniferous continuous cover,% cover,Cont,TM-based classification
+DDEG,growing degree-days above the threshold of 0°C,°C * days,Cont,"from Zimmermann & Kienast (1999)  Journal of Vegetation Science 10, 469–482"
+NUTRI,soil nutrients index,D mval/cm2,Cont,index from 0 to 45
+PDAY,number of days with rainfall > 1 mm,ndays,Cont,"according to  Zimmermann & Kienast (1999)  Journal of Vegetation Science 10, 469–482"
+PRECYY,average yearly precipitation sum,mm,Cont,"from Zimmermann & Kienast (1999)  Journal of Vegetation Science 10, 469–482"
+SFROYY,summer frost frequency – number of days,days,Cont,from Bolliger & al. (2001)
+SLOPE,slope,degrees x 10,Cont,
+SRADYY,potential yearly global radiation (daily average),kJm-2day-1 ,Cont,"from Zimmermann & Kienast (1999)  Journal of Vegetation Science 10, 469–482"
+SWB,site water balance,mm,Cont,"as in Zimmermann, N.E. & Roberts, D.W. (2001) Final report of the MLP climate and biophysical mapping project. Scientific project report. WSL, Birmensdorf, Switzerland."
+TAVECC,average temperature of the coldest month,°C,Cont,"from Zimmermann & Kienast (1999)  Journal of Vegetation Science 10, 469–482"
+TOPO,topographic position,number (dimensionless index),Cont,"as in Zimmermann, N.E. & Roberts, D.W. (2001) Final report of the MLP climate and biophysical mapping project. Scientific project report. WSL, Birmensdorf, Switzerland."
